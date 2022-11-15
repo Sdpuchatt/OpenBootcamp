@@ -15,9 +15,9 @@ public class EjercicioTema8 {
 	}
 }
 class Persona{
-	int edad;
-	String nombre;
-	int telefono;
+	private int edad;
+	private String nombre;
+	private int telefono;
 	
 	public int getEdad() {
 		return this.edad;
