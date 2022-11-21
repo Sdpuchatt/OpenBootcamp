@@ -1,6 +1,7 @@
 package javaBasico;
 
 public class EjercicioTema1 {
+	
 	public static void main(String[] args) {
 		//int, long, double, boolean, String
 		int numeroEntero = 10;
